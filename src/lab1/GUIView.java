@@ -22,7 +22,7 @@ public class GUIView extends JPanel {
 	private static final long serialVersionUID = -3394100357075618465L;
 
 	/** The "Start Game" button */
-	private final JButton Jugar;
+	private final JButton startGameButton;
 
 	/** The chooser (also called drop-down menu) with names of different games */
 	private final JComboBox<Object> gameChooser;
